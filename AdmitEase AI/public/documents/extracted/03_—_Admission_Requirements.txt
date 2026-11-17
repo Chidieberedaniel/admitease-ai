@@ -1,0 +1,318 @@
+WESTBRIDGE UNIVERSITY
+
+Undergraduate Admission Requirements
+
+Document ID: WU-KB-003Version: 1.0Academic Session: 2027/2028Institution: Westbridge UniversityLocation: Lagos State, Nigeria
+
+
+
+1. Introduction
+
+This document outlines the sample undergraduate admission requirements for Westbridge University for the 2027/2028 academic session.
+
+It provides general admission criteria, programme-specific subject requirements and important admission guidelines.
+
+AdmitEase AI must use this document when responding to questions about eligibility, UTME scores, O'Level results and programme-specific admission requirements.
+
+Important Notice: Westbridge University is a fictional institution created for this project. All admission requirements in this document are sample information developed for demonstration and testing purposes. They should not be presented as verified requirements of an actual university or official JAMB regulations.
+
+2. General Admission Requirements
+
+Applicants seeking undergraduate admission into Westbridge University must satisfy the following general requirements:
+
+2.1 UTME Requirement
+
+Applicants must have participated in the relevant Unified Tertiary Matriculation Examination (UTME).
+
+The sample minimum UTME score for the 2027/2028 admission session is 160.
+
+Some programmes may have additional subject-specific requirements.
+
+Meeting the minimum UTME score does not guarantee admission.
+
+2.2 O'Level Requirement
+
+Applicants must have at least five relevant credit passes in their O'Level results.
+
+English Language is compulsory for all programmes.
+
+Mathematics and other relevant subjects depend on the chosen programme.
+
+Results may be obtained in a maximum of two sittings.
+
+Accepted examination bodies for this sample scenario include WAEC, NECO and NABTEB, subject to applicable verification.
+
+2.3 Programme-Specific Requirements
+
+Applicants must meet the required O'Level and UTME subject combinations for their chosen programme.
+
+3. Programme-Specific Admission Requirements
+
+The following requirements apply to the eight undergraduate programmes listed in the Westbridge University Programme Catalogue.
+
+3.1 Computer Science
+
+Faculty: Computing and Technology
+
+O'Level Requirements:Five relevant credit passes in:
+
+English Language
+
+Mathematics
+
+Physics
+
+Chemistry
+
+One other relevant subject
+
+UTME Subjects:
+
+English Language
+
+Mathematics
+
+Physics
+
+One relevant science subject
+
+3.2 Software Engineering
+
+Faculty: Computing and Technology
+
+O'Level Requirements:Five relevant credit passes in:
+
+English Language
+
+Mathematics
+
+Physics
+
+Chemistry
+
+One other relevant subject
+
+UTME Subjects:
+
+English Language
+
+Mathematics
+
+Physics
+
+One relevant science subject
+
+3.3 Accounting
+
+Faculty: Management and Social Sciences
+
+O'Level Requirements:Five relevant credit passes in:
+
+English Language
+
+Mathematics
+
+Economics
+
+Two other relevant subjects
+
+UTME Subjects:
+
+English Language
+
+Mathematics
+
+Economics
+
+One other relevant subject
+
+3.4 Business Administration
+
+Faculty: Management and Social Sciences
+
+O'Level Requirements:Five relevant credit passes in:
+
+English Language
+
+Mathematics
+
+Economics
+
+Two other relevant subjects
+
+UTME Subjects:
+
+English Language
+
+Mathematics
+
+Economics
+
+One other relevant subject
+
+3.5 Economics
+
+Faculty: Management and Social Sciences
+
+O'Level Requirements:Five relevant credit passes in:
+
+English Language
+
+Mathematics
+
+Economics
+
+Two other relevant subjects
+
+UTME Subjects:
+
+English Language
+
+Mathematics
+
+Economics
+
+One other relevant subject
+
+3.6 Political Science
+
+Faculty: Management and Social Sciences
+
+O'Level Requirements:Five relevant credit passes in:
+
+English Language
+
+Mathematics
+
+Government
+
+Two other relevant subjects
+
+UTME Subjects:
+
+English Language
+
+Government
+
+Economics
+
+One other relevant subject
+
+3.7 Mass Communication
+
+Faculty: Communication and Humanities
+
+O'Level Requirements:Five relevant credit passes in:
+
+English Language
+
+Literature in English
+
+Three other relevant subjects
+
+UTME Subjects:
+
+English Language
+
+Literature in English
+
+Government or History
+
+One other relevant subject
+
+3.8 Biochemistry
+
+Faculty: Science
+
+O'Level Requirements:Five relevant credit passes in:
+
+English Language
+
+Mathematics
+
+Biology
+
+Chemistry
+
+Physics
+
+UTME Subjects:
+
+English Language
+
+Biology
+
+Chemistry
+
+Physics
+
+4. Important Admission Guidelines
+
+Applicants should take note of the following:
+
+The minimum UTME score is 160 for the sample 2027/2028 admission session.
+
+Applicants must satisfy the subject requirements for their chosen programme.
+
+A maximum of two O'Level sittings is permitted in this sample admission policy.
+
+English Language is compulsory for all programmes.
+
+Applicants should review their subject combinations before applying.
+
+Meeting the minimum admission requirements does not guarantee admission.
+
+Final admission decisions are subject to the university's screening and selection process.
+
+5. Frequently Asked Admission Questions
+
+What is the minimum UTME score required?
+
+The sample minimum UTME score for the 2027/2028 session is 160. However, applicants must also satisfy the subject requirements for their chosen programme.
+
+Can I apply with two O'Level sittings?
+
+Yes. Westbridge University's sample admission policy accepts O'Level results from a maximum of two sittings.
+
+Is English Language compulsory?
+
+Yes. English Language is compulsory for all undergraduate programmes.
+
+Can I apply if I scored below 160 in UTME?
+
+The sample minimum UTME score is 160. Applicants who score below this threshold do not meet the stated general UTME requirement.
+
+Does meeting the minimum requirements guarantee admission?
+
+No. Meeting the minimum requirements makes an applicant eligible for consideration but does not guarantee admission.
+
+Are the requirements the same for every programme?
+
+No. General requirements apply across the university, but individual programmes have different O'Level and UTME subject combinations.
+
+6. Instructions for AdmitEase AI
+
+When answering admission-related questions, AdmitEase AI must:
+
+Use this document as the primary reference for admission requirements.
+
+Distinguish between general admission requirements and programme-specific requirements.
+
+Give the correct subject combinations for the programme being discussed.
+
+Never assume that all programmes have identical admission requirements.
+
+Clearly state that the minimum UTME score is 160 for the sample 2027/2028 session.
+
+Never guarantee admission based on an applicant's score or results.
+
+Never invent additional subject requirements or alternative admission pathways.
+
+If a requirement is not covered in this document, explain that the information is currently unavailable and refer the applicant to the admissions office.
+
+Make clear that all requirements are fictional sample information for this project when discussing the institution outside its demonstration setting.
+
+
+
+
+
